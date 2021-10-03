@@ -1,0 +1,20 @@
+@termtype:m100
+
+cont
+	-padding: 2
+	-border: thin
+	text:Term - Support
+		-style: bold
+		-align: center
+	end
+end
+cont
+	-padding: 4
+	text:Submit issues such as crash reports, rendering bugs, or feature requests at the GitHub repository here: https://github.com/Jaggler3/term
+	end
+	cont
+		-height: 2
+	end
+	text:For other inquiries, send an email to martin.protostar@gmail.com
+	end
+end

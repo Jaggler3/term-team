@@ -1,0 +1,15 @@
+@termtype:m100
+
+cont
+	-padding: 2
+	-border: thin
+	text:Term - About
+		-style: bold
+		-align: center
+	end
+end
+cont
+	-padding: 4
+	text:Coming soon.
+	end
+end

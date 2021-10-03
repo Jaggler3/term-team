@@ -1,0 +1,15 @@
+@termtype:m100
+
+cont
+	-padding: 2
+	-border: thin
+	text:Term - News
+		-style: bold
+		-align: center
+	end
+end
+cont
+	-padding: 4
+	text:No news yet!
+	end
+end

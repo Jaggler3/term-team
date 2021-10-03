@@ -1,0 +1,17 @@
+@termtype:m100
+cont
+	-padding: 2
+	-border: thin
+	text:Term - Documentation
+		-style: bold
+		-align: center
+	end
+end
+cont
+	-padding: 4
+	text:Refer to the README in the GitHub repository to get started with Term here: https://github.com/Jaggler3/term
+	end
+	text:More in-depth documentation will be available on this page at some time in the future.
+	end
+end
+
