@@ -12,4 +12,12 @@ cont
 	-padding: 4
 	text:Coming soon.
 	end
+	cont
+		-height: 2
+	end
+	link:Back
+		-key: 1
+		-style: underline
+		-url: index.term
+	end
 end

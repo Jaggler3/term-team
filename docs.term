@@ -13,5 +13,13 @@ cont
 	end
 	text:More in-depth documentation will be available on this page at some time in the future.
 	end
+	cont
+		-height: 2
+	end
+	link:Back
+		-key: 1
+		-style: underline
+		-url: index.term
+	end
 end
 

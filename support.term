@@ -17,4 +17,12 @@ cont
 	end
 	text:For other inquiries, send an email to martin.protostar@gmail.com
 	end
+	cont
+		-height: 2
+	end
+	link:Back
+		-key: 1
+		-style: underline
+		-url: index.term
+	end
 end
