@@ -1,0 +1,32 @@
+@termtype:m100
+
+cont
+	-width: 100pc
+	-border: thin
+	text:Welcome to the Term Team site.
+		-align: center
+	end
+	cont
+		-height: 2
+	end
+	text:Here you can find news, support, and documentation of the Term browser and Term sites.
+	end
+end
+cont
+	-padding: 2
+	link: News
+		-key: 1
+		-url: news.term
+		-style: underline
+	end
+	link: Support
+                -key: 2
+                -url: support.term
+                -style: underline
+        end
+	link: Documentation
+                -key: 1
+                -url: docs.term
+                -style: underline
+        end
+end
