@@ -3,6 +3,7 @@
 cont
 	-padding: 2
 	-border: thin
+	-width: 100pc
 	text:Term - Support
 		-style: bold
 		-align: center
